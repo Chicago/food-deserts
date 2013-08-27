@@ -1,0 +1,139 @@
+COMPANY,STORE TYPE,ADDRESS,CITY,ZIP CODE,STATE,LOCATION
+Aldi,Discount,13085 S. Ashland Ave,Calumet Park,60827,IL,"13085 S. Ashland Ave
+Calumet Park, IL
+(41.65730441000045, -87.66065604399967)"
+Ultra Foods,FullService,13001 Ashland Ave,Calumet Park,60827,IL,"13001 Ashland Ave
+Calumet Park, IL
+(41.65768375100049, -87.6606746659997)"
+Food 4 Less,FullService,12150 S. Pulaski Rd.,Alsip,60803,IL,"12150 S. Pulaski Rd.
+Alsip, IL
+(41.67203205600049, -87.71958974999967)"
+Aldi,Discount,12215 S. Western Ave,Blue Island,60406,IL,"12215 S. Western Ave
+Blue Island, IL
+(41.67119637000047, -87.68046411899968)"
+Aldi,Discount,12050 S Pulaski Rd,Alsip,60803,IL,"12050 S Pulaski Rd
+Alsip, IL
+(41.673861039000485, -87.71966202799968)"
+Jewel-Osco,FullService,12003 S Pulaski Rd,Alsip,60803,IL,"12003 S Pulaski Rd
+Alsip, IL
+(41.673050515000455, -87.71960061099969)"
+Dominick's,FullService,3243 W 115th St,Merrionette Park,60803,IL,"3243 W 115th St
+Merrionette Park, IL
+(41.684236574000465, -87.70151347399968)"
+Aldi,Discount,11340 S Cicero Ave,Alsip,60803,IL,"11340 S Cicero Ave
+Alsip, IL
+(41.687901130000455, -87.73962036499967)"
+Jewel-Osco,FullService,4650 W 103Rd St,Oak Lawn,60453,IL,"4650 W 103Rd St
+Oak Lawn, IL
+(41.705658756000446, -87.73693580899965)"
+Target,Supercenter,4120 W 95th St,Oak Lawn,60453,IL,"4120 W 95th St
+Oak Lawn, IL
+(41.72043283400046, -87.72436098299966)"
+Aldi,Discount,2541 W 95th St,Evergreen Park,60805,IL,"2541 W 95th St
+Evergreen Park, IL
+(41.72088810700046, -87.68658453099965)"
+Jewel-Osco,FullService,9424 S Pulaski Rd,Oak Lawn,60453,IL,"9424 S Pulaski Rd
+Oak Lawn, IL
+(41.72181237600046, -87.72143985999969)"
+Sams Club,Wholesale,9400 S Western Ave,Evergreen Park,60805,IL,"9400 S Western Ave
+Evergreen Park, IL
+(41.72351280000049, -87.68224183099966)"
+Dominick's,FullService,8700 S Cicero Ave,Oak Lawn,60453,IL,"8700 S Cicero Ave
+Oak Lawn, IL
+(41.73410430500047, -87.74116581399966)"
+Aldi,Discount,3231 W. 87th St.,Evergreen Park,60805,IL,"3231 W. 87th St.
+Evergreen Park, IL
+(41.735139810000476, -87.70294993499965)"
+Jewel-Osco,FullService,7910 S Cicero Ave,Burbank,60459,IL,"7910 S Cicero Ave
+Burbank, IL
+(41.748500812000486, -87.74134072299967)"
+Food 4 Less,FullService,7770 S Cicero Ave,Burbank,60459,IL,"7770 S Cicero Ave
+Burbank, IL
+(41.75162660800049, -87.74148280299966)"
+Costco,Wholesale,7300 S. Cicero Ave,Bedford Park,60629,IL,"7300 S. Cicero Ave
+Bedford Park, IL
+(41.760051569000495, -87.74177252599969)"
+Target,Supercenter,7100 S Cicero Ave,Bedford Park,60629,IL,"7100 S Cicero Ave
+Bedford Park, IL
+(41.76424084700045, -87.74194078099964)"
+Aldi,Discount,7020 S. Cicero Ave.,Bedford Park,60638,IL,"7020 S. Cicero Ave.
+Bedford Park, IL
+(41.76498839600049, -87.74247096699969)"
+Food 4 Less,FullService,3039 S Cicero,Cicero,60804,IL,"3039 S Cicero
+Cicero, IL
+(41.837381354000456, -87.74373387699967)"
+Target,Supercenter,2901 S Cicero Ave,Cicero,60804,IL,"2901 S Cicero Ave
+Cicero, IL
+(41.84025014400049, -87.74388035299967)"
+Sams Club,Wholesale,2601 S Cicero Ave,Cicero,60804,IL,"2601 S Cicero Ave
+Cicero, IL
+(41.84293071100046, -87.74395965799965)"
+Aldi,Discount,4630 Cermak Rd,Cicero,60804,IL,"4630 Cermak Rd
+Cicero, IL
+(41.85140790300045, -87.74037799999968)"
+Jewel-Osco,FullService,438 W. Madison St,Oak Park,60302,IL,"438 W. Madison St
+Oak Park, IL
+(41.8799118710005, -87.78606966499967)"
+Dominick's,FullService,259 Lake St,Oak Park,60302,IL,"259 Lake St
+Oak Park, IL
+(41.888205980000464, -87.78183465199965)"
+Dominick's,FullService,7501 North Ave,River Forest,60305,IL,"7501 North Ave
+River Forest, IL
+(41.90868167500048, -87.81319693999967)"
+Dominick's,FullService,3141 Thatcher Ave,River Grove,60171,IL,"3141 Thatcher Ave
+River Grove, IL
+(41.9366639750005, -87.83597600899964)"
+Aldi,Discount,9310 Irving Park Rd,Schiller Park,60176,IL,"9310 Irving Park Rd
+Schiller Park, IL
+(41.954035313000475, -87.85990366499965)"
+Target,Supercenter,4050 N Harlem Ave,Norridge,60706,IL,"4050 N Harlem Ave
+Norridge, IL
+(41.95393118400045, -87.80733438699968)"
+Aldi,Discount,4703 N Harlem,Harwood Heights,60706,IL,"4703 N Harlem
+Harwood Heights, IL
+(41.96561767300045, -87.80714523199964)"
+Jewel-Osco,FullService,4734 N Cumberland Ave,Chicago,60656,IL,"4734 N Cumberland Ave
+Chicago, IL
+(41.965691877000495, -87.83681999199968)"
+Jewel-Osco,FullService,7342 W Foster Ave,Chicago,60656,IL,"7342 W Foster Ave
+Chicago, IL
+(41.974475329000484, -87.81051002199968)"
+Dominick's,FullService,1900 S Cumberland Ave,Park Ridge,60068,IL,"1900 S Cumberland Ave
+Park Ridge, IL
+(41.98739886700048, -87.83664048999964)"
+Dominick's,FullService,6810 N McCormick Blvd,Lincolnwood,60712,IL,"6810 N McCormick Blvd
+Lincolnwood, IL
+(42.00486838600045, -87.71167926799967)"
+Jewel-Osco,FullService,5667 W Touhy Ave,Niles,60714,IL,"5667 W Touhy Ave
+Niles, IL
+(42.01192397900047, -87.76923280699964)"
+Target,Supercenter,6150 W Touhy Ave,Niles,60714,IL,"6150 W Touhy Ave
+Niles, IL
+(42.01200007900047, -87.78086593499967)"
+Trader Joe's,Specialty,190 N. Northwest Highway,Park Ridge,60068,IL,"190 N. Northwest Highway
+Park Ridge, IL
+(42.01312280900049, -87.83252474399967)"
+Costco,Wholesale,7311 North Melvina Ave,Niles,60714,IL,"7311 North Melvina Ave
+Niles, IL
+(42.013691709000454, -87.78176641999966)"
+Aldi,Discount,7428 N Waukegan Rd,Niles,60714,IL,"7428 N Waukegan Rd
+Niles, IL
+(42.015936739000495, -87.80255656599968)"
+Jewel-Osco,FullService,481 Busse Hwy,Park Ridge,60068,IL,"481 Busse Hwy
+Park Ridge, IL
+(42.01590256500049, -87.84042296799964)"
+Jewel-Osco,FullService,2485 Howard St,Evanston,60202,IL,"2485 Howard St
+Evanston, IL
+(42.01918455400045, -87.70838714399969)"
+Target,Supercenter,2209 Howard St,Evanston,60202,IL,"2209 Howard St
+Evanston, IL
+(42.01949112400047, -87.68504020599966)"
+Jewel-Osco,FullService,7900 N Milwaukee Ave,Niles,60714,IL,"7900 N Milwaukee Ave
+Niles, IL
+(42.0244609180005, -87.81256099199965)"
+Sams Club,Wholesale,2450 Main St,Evanston,60202,IL,"2450 Main St
+Evanston, IL
+(42.033678326000484, -87.70788362799965)"
+Food 4 Less,FullService,2400 Main St,Evanston,60202,IL,"2400 Main St
+Evanston, IL
+(42.03369167200049, -87.70721634399968)"
