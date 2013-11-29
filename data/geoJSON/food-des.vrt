@@ -1,6 +1,6 @@
 <OGRVRTDataSource>
-    <OGRVRTLayer name="Grocery_Stores_-_2011">
-        <SrcDataSource>Grocery_Stores_-_2011.csv</SrcDataSource>
+    <OGRVRTLayer name="Nearby_Cook_County_Grocery_Store_Chains">
+        <SrcDataSource>Nearby_Cook_County_Grocery_Store_Chains.csv</SrcDataSource>
         <GeometryType>wkbPoint</GeometryType>
         <LayerSRS>WGS84</LayerSRS>
         <GeometryField encoding="PointFromColumns" x="LONGITUDE" y="LATITUDE"/>
